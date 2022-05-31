@@ -1,4 +1,4 @@
-# %Basic information
+# Basic information
 
 - Name: Abdellatif Temsamani
 - Email: abdellatif.devlog@gmail.com
