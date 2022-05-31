@@ -32,15 +32,14 @@ I always try to communicate with others and try to be a good communicator.
   - React
   - Node.js
 
-- Databases:
+- others:
 
   - SQL
-  - NoSQL
-
-- Operating Systems:
-
   - Linux (arch linux, Debian, Ubuntu, etc)
-  - Windows
+  - Docker
+  - Git
+  - Agile
+  - Scrum
 
 - non-technical skills:
 

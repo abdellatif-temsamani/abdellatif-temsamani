@@ -26,13 +26,39 @@ class SidePannel extends Component {
 
                 </Card>
 
-                <Card title='Summary'>
-                    <p>
-                        he/him <br />
-                        software engineer student<br />
+                <Card title='Skill'>
+                    <h3 className="skill-title">Languages</h3>
+                    <ul>
+                        <li>JavaScript/typescript</li>
+                        <li>Python</li>
+                        <li>bash</li>
+                        <li>HTML/CSS</li>
+                        <li>rust</li>
+                        <li>SQL</li>
+                    </ul>
 
-                    </p>
+                    <h3 className="skill-title">Frameworks </h3>
+                    <ul>
+                        <li>React</li>
+                        <li>NodeJS</li>
+                        <li>dotnet</li>
+                    </ul>
 
+                    <h3 className="skill-title">others</h3>
+                    <ul>
+                        <li>Linux</li>
+                        <li>docker</li>
+                        <li>Git</li>
+                        <li>GitHub</li>
+                    </ul>
+
+                    <h3 className="skill-title">non-technical</h3>
+                    <ul>
+                        <li>English</li>
+                        <li>Communication</li>
+                        <li>Teamwork</li>
+                        <li>Problem Solving</li>
+                    </ul>
 
                 </Card>
 

@@ -50,6 +50,16 @@ a:hover {
   filter: brightness(0.8);
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 0.5rem 0;
+  font-size: 1.2rem;
+}
+
 @media (max-width: 768px) {
   .flex {
     flex-direction: column;
