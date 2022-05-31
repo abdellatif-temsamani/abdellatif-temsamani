@@ -11,6 +11,11 @@
   margin-bottom: 10px;
 }
 
+.skill-title {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
 @media (max-width: 768px) {
   .SidePannel {
     margin: 0;
@@ -21,5 +26,9 @@
   .SidePannel p {
     font-size: 1.2em;
     margin-bottom: 10px;
+  }
+
+  .skill-title {
+    font-size: 2em;
   }
 }
