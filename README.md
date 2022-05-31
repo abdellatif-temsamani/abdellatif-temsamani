@@ -18,11 +18,19 @@ I always try to communicate with others and try to be a good communicator.
 # Skills
 
 - Programming Languages:
+
   - Python
   - Javascript/Typescript
   - C#
   - c language
   - bash
+  - rust
+
+- Frameworks:
+
+  - .NET
+  - React
+  - Node.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-temsamani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
