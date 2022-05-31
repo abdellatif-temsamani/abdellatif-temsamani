@@ -1,7 +1,6 @@
 .Header {
   background-color: var(--gold);
   padding: 10px;
-  position: relative;
   margin: 20px;
 
   display: flex;
@@ -42,6 +41,15 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin: 0;
+  }
+
+  .Header h3 {
+    font-size: 1.3em;
+  }
+
+  .Header p {
+    font-size: 1em;
   }
 
   .Header img {

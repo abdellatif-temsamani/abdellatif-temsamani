@@ -3,6 +3,7 @@
   --blue: #2f4858;
   --red: #fd8b7b;
   --gold: #ffd23f;
+  --dark-gold: #ffc00a;
   --white: #dfe0df;
   --black: #080708;
 }
@@ -31,4 +32,26 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.flex {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: var(--blue);
+  font-weight: bold;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--black);
+  filter: brightness(0.8);
+}
+
+@media (max-width: 768px) {
+  .flex {
+    flex-direction: column;
+  }
 }
