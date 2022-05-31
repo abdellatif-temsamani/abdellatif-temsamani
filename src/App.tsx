@@ -8,7 +8,6 @@ class App extends Component {
                 <Header />
                 <div className="flex">
                     <SidePannel />
-                    <SidePannel />
 
                 </div>
             </div>

@@ -49,3 +49,9 @@ a:hover {
   color: var(--black);
   filter: brightness(0.8);
 }
+
+@media (max-width: 768px) {
+  .flex {
+    flex-direction: column;
+  }
+}

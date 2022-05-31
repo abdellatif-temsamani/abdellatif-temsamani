@@ -1,0 +1,25 @@
+.Card {
+  margin-bottom: 50px;
+}
+
+.Card * {
+  padding: 10px;
+}
+
+.Card h1 {
+  font-size: 2.3em;
+  margin-bottom: 25px;
+  width: 100%;
+  background-color: var(--dark-gold);
+}
+
+@media (max-width: 768px) {
+  .Card {
+    width: 100%;
+    filter: none;
+  }
+
+  .Card h1 {
+    font-size: 1.5em;
+  }
+}
