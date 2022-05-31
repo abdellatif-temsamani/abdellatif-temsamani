@@ -1,10 +1,31 @@
-# Hi, I’m @abdellatif-dev
-- I’m interested in linux, rust, python, neovim,c lang, ethical hacking, react...
-- I’m looking to collaborate on open source project, tech startups, projects...
-- How to reach me via [email](mailto:abdellatif.devlog@gmail.com)...
+# %Basic information
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- Name: Abdellatif Temsamani
+- Email: abdellatif.devlog@gmail.com
+- Github: @abdellatif-temsamani
+- Linkedin: [abdellatif temsamani](https://www.linkedin.com/in/abdellatif-temsamani-399999225/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-dev&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# About
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+Hello, I am Abdellatif Temsamani, a software engineer based in Morocco.
+Currently, I am a student at the [Cardiff metropolitan university](https://www.cardiff.ac.uk/).
+I have always been interested in computers and programming, i started my first programming at the age of 14.
+I been hobbyist since then, starting from python to other languages like C++, C#, Java, etc.
+I consider myself a very hardworking person, I am always ready to learn new things and improve my skills.
+I am a very good team player, I always try to work with others and try to be a good team member.
+I always try to communicate with others and try to be a good communicator.
+
+# Skills
+
+- Programming Languages:
+  - Python
+  - Javascript/Typescript
+  - C#
+  - c language
+  - bash
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-temsamani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-temsamani&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
