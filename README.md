@@ -49,7 +49,7 @@ I always try to communicate with others and try to be a good communicator.
   - problem solving
   - leadership
 
----
+# status and trophies
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-temsamani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
