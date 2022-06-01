@@ -1,8 +1,10 @@
 import Header from './Header';
-import SidePannel from './SidePannel';
+import LeftSidePannel from './SidePannel/LeftSidePannel';
+import RightSidePannel from './SidePannel/RightSidePannel';
 
 export {
     Header,
-    SidePannel
+    LeftSidePannel,
+    RightSidePannel
 };
 

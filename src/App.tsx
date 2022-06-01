@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import { Header, SidePannel } from './Components';
+import { Header, RightSidePannel, LeftSidePannel } from './Components';
 
 class App extends Component {
     render() {
@@ -7,7 +7,8 @@ class App extends Component {
             <div className="App" >
                 <Header />
                 <div className="flex">
-                    <SidePannel />
+                    <LeftSidePannel />
+                    <RightSidePannel />
 
                 </div>
             </div>
