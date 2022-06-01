@@ -29,7 +29,7 @@ class RightSidePannel extends Component {
 
                         <tr>
                             <td>university:</td>
-                            <td>Cardiff Metropolitian University</td>
+                            <td>Cardiff Metropolitan University</td>
                         </tr>
 
                         <tr>
