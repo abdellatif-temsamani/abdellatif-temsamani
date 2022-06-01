@@ -1,12 +1,12 @@
 :root {
   /* color scheme  */
-  --blue: #2f4858;
-  --dark-blue: #0f3848;
+  --blue: #006daa;
+  --dark-blue: #0353a4;
   --red: #fd8b7b;
-  --gold: #ffd23f;
-  --dark-gold: #ffc00a;
-  --white: #dfe0df;
-  --black: #080708;
+  --gold: #edf67d;
+  --dark-gold: #f1fd42;
+  --white: #fffff3;
+  --black: #030301;
 }
 
 * {
