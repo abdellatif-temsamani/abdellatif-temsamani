@@ -1,11 +1,12 @@
 import './Card.css';
+import { FC, ReactNode } from 'react';
 
 type Props = {
     title: string,
-    children: React.ReactNode,
+    children: ReactNode,
 };
 
-const Card: React.FC<Props> = ({ title, children }) => (
+const Card: FC<Props> = ({ title, children }) => (
     <div className="Card">
         <h1>{title}</h1>
 

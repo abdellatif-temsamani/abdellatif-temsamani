@@ -12,7 +12,7 @@
   width: 65%;
 }
 
-.SidePannel p {
+.SidePannel tr {
   font-size: 1.8em;
   margin-bottom: 10px;
 }
@@ -43,7 +43,7 @@
     filter: none;
   }
 
-  .SidePannel p {
+  .SidePannel tr {
     font-size: 1.2em;
     margin-bottom: 10px;
   }
