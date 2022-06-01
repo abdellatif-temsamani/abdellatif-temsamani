@@ -1,0 +1,54 @@
+.SidePannel {
+  background-color: var(--gold);
+  margin: 20px;
+  filter: drop-shadow(0px 0px 5px var(--black));
+}
+
+.Left {
+  width: 35%;
+}
+
+.Right {
+  width: 65%;
+}
+
+.SidePannel p {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+.skill-title {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.skillCard {
+  width: 90%;
+  margin: 10px;
+  border: 1px solid var(--black);
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.skillCard:hover {
+  box-shadow: 0px 0px 5px var(--black);
+  transform: scale(1.06);
+}
+
+@media (max-width: 768px) {
+  .SidePannel {
+    margin: 0;
+    width: 100%;
+    background-color: var(--blue);
+    filter: none;
+  }
+
+  .SidePannel p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+
+  .skill-title {
+    font-size: 2em;
+  }
+}
