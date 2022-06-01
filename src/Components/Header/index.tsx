@@ -7,7 +7,7 @@ class Header extends Component {
             <header className="Header" >
                 <img src="/profile.jpeg" alt="profile" />
                 <div>
-                    <h3>Abdellatif Mkared Temsamani</h3>
+                    <h3>Abdellatif Mkaref Temsamani</h3>
                     <p>software engineer</p>
                 </div>
             </header>
