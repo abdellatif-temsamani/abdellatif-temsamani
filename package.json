@@ -2,6 +2,7 @@
     "name": "cv",
     "private": false,
     "version": "0.2.0",
+    "License": "GPL-3.0",
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
