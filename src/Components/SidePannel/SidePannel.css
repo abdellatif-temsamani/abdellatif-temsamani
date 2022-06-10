@@ -26,8 +26,13 @@
   width: 70%;
   margin: 10px;
   border: 1px solid var(--black);
+  background-color: var(--black);
   border-radius: 10px;
   transition: all 0.3s ease-in-out;
+}
+
+.skillCard * {
+  color: var(--white);
 }
 
 svg {

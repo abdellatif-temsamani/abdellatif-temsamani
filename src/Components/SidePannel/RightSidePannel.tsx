@@ -26,7 +26,9 @@ class RightSidePannel extends Component {
                             <ul>
                                 <li>React</li>
                                 <li>NodeJS</li>
-                                <li>dotnet</li>
+                                <li>dotnet Core</li>
+                                <li>ASP.NET Core</li>
+                                <li>Next.js</li>
                             </ul>
                         </div>
 
