@@ -23,7 +23,6 @@
 }
 
 .skillCard {
-  width: 70%;
   margin: 10px;
   border: 1px solid var(--black);
   background-color: var(--black);
