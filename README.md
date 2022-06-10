@@ -4,6 +4,7 @@
 - Email: abdellatif.devlog@gmail.com
 - Github: @abdellatif-temsamani
 - Linkedin: [abdellatif temsamani](https://www.linkedin.com/in/abdellatif-temsamani-399999225/)
+- resume: [abdellatif-temsamani](https://abdellatiftemsamanicv.surge.sh/)
 
 # About
 

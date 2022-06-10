@@ -1,10 +1,5 @@
 :root {
   /* color scheme  */
-  --blue: #507DBC;
-  --dark-blue: #36598D;
-  --red: #fd8b7b;
-  --gold: #ffb811;
-  --dark-gold: #ff9811;
   --white: #fffff3;
   --black: #030301;
 }
@@ -13,6 +8,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  color: var(--black);
   outline: none;
 }
 
@@ -27,7 +23,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--blue);
+  background-color: var(--white);
 }
 
 code {
