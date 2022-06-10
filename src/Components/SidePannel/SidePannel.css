@@ -23,6 +23,7 @@
 }
 
 .skillCard {
+  width: 100%;
   margin: 10px;
   border: 1px solid var(--black);
   background-color: var(--black);
@@ -54,6 +55,10 @@ svg {
   .SidePannel tr {
     font-size: 1.2em;
     margin-bottom: 10px;
+  }
+
+  .skillCard {
+    width: auto;
   }
 
   .skill-title {
