@@ -8,7 +8,6 @@ class RightSidePannel extends Component {
     render() {
         return (
             <div className="SidePannel Left" >
-
                 <Card title='Summary'>
 
                     <table>
@@ -42,27 +41,28 @@ class RightSidePannel extends Component {
                 </Card>
 
                 <Card title='Personal Information'>
+                    <div className="center">
 
-                    <a href="tel:+212617361610">
-                        <Phone color="var(--black)" size={64} className="Icon" />
-                    </a>
+                        <a href="tel:+212617361610">
+                            <Phone color="var(--black)" size={64} className="Icon" />
+                        </a>
 
-                    <a href="sms:+212617361610">
-                        <MessageCircle color="var(--black)" size={64} className="Icon" />
-                    </a>
+                        <a href="sms:+212617361610">
+                            <MessageCircle color="var(--black)" size={64} className="Icon" />
+                        </a>
 
-                    <a href="mailto:abdellatif.devlog@gmail.com" target="_">
-                        <Mail color="var(--black)" size={64} className="Icon" />
-                    </a>
+                        <a href="mailto:abdellatif.devlog@gmail.com" target="_">
+                            <Mail color="var(--black)" size={64} className="Icon" />
+                        </a>
 
-                    <a href="https://github.com/abdellatif-temsamani" target="_">
-                        <GitHub color="var(--black)" size={64} className="Icon" />
-                    </a>
+                        <a href="https://github.com/abdellatif-temsamani" target="_">
+                            <GitHub color="var(--black)" size={64} className="Icon" />
+                        </a>
 
-                    <a href="https://www.linkedin.com/in/abdellatif-temsamani-399999225/" target="_">
-                        <Linkedin color="var(--black)" size={64} className="Icon" />
-                    </a>
-
+                        <a href="https://www.linkedin.com/in/abdellatif-temsamani-399999225/" target="_">
+                            <Linkedin color="var(--black)" size={64} className="Icon" />
+                        </a>
+                    </div>
                 </Card>
 
             </div>

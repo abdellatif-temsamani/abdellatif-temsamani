@@ -10,7 +10,9 @@
   font-size: 2.3em;
   margin-bottom: 25px;
   width: 100%;
-  background-color: var(--dark-gold);
+  background-color: var(--black);
+  color: var(--white);
+  font-weight: normal;
 }
 
 @media (max-width: 768px) {
@@ -19,15 +21,7 @@
     filter: none;
   }
 
-  .Card * {
-    color: var(--white);
-  }
-
-  .Card a {
-    color: var(--gold);
-  }
   .Card h1 {
     font-size: 1.5em;
-    background-color: var(--dark-blue);
   }
 }
