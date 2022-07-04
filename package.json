@@ -5,7 +5,7 @@
     "License": "GPL-3.0",
     "scripts": {
         "dev": "vite",
-        "build": "tsc && vite build && cp ./profile.jpeg ./dist",
+        "build": "tsc && vite build",
         "preview": "yarn build && vite preview"
     },
     "dependencies": {
