@@ -1,5 +1,4 @@
 :root {
-  /* color scheme  */
   --white: #fffff3;
   --black: #030301;
 }
@@ -55,6 +54,11 @@ ul {
 ul li {
   padding: 0.5rem 0;
   font-size: 1.2rem;
+}
+
+*::selection {
+  background-color: var(--black);
+  color: var(--white);
 }
 
 @media (max-width: 768px) {
