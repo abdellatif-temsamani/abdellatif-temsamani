@@ -1,5 +1,0 @@
-# pages
-
-- [ ] home
-- [ ] links
-- [ ] portfolio
