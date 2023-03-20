@@ -1,52 +1,50 @@
-# Basic information
+# Basic Information
 
--   Name: Abdellatif Temsamani
--   Email: abdellatif.devlog@gmail.com
--   Github: @abdellatif-temsamani
--   Linkedin: [abdellatif temsamani](https://www.linkedin.com/in/abdellatif-temsamani-399999225/)
+- Name: Abdellatif Temsamani
+- Email: abdellatif.devlog@gmail.com
+- GitHub: @abdellatif-temsamani
+- LinkedIn: Abdellatif Temsamani
+- Location: Morocco
 
-# About
+# Summary
 
-Hello, I am Abdellatif Temsamani, a software engineer based in Morocco.
-I am a student at the [Cardiff metropolitan university](https://www.cardiff.ac.uk/).
-I have always interested in computers and programming, i started my first programming at the age of 14.
-I been hobbyist since then, starting from python to other languages like C++, C#, Java, etc.
-I consider myself a hardworking person, I am always ready to learn new techs and improve my skills.
-I am a good team player, I always try to work with others and try to be a good team member.
-I always try to communicate with others and try to be a good communicator.
+I am a highly motivated software engineer with a passion for coding, and a
+strong desire to learn. I have a broad range of technical skills and experience
+in multiple programming languages, frameworks and tools. I am also an effective
+communicator and a skilled team player with excellent problem-solving and
+leadership skills.
 
-# Skills
+# Technical Skills
 
--   Programming Languages:
+- Programming Languages: Python, Javascript/Typescript, C#, C, Bash, Rust
+- Frameworks: .NET, React, Node.js
+- Databases: SQL
+- Operating Systems: Linux (Arch Linux, Debian, Ubuntu, etc.) Tools: Docker,
+  Git, Agile, Scrum
 
-    -   Python
-    -   Javascript/Typescript
-    -   C#
-    -   c language
-    -   bash
-    -   rust
+# Professional Experience
 
--   Frameworks:
+- Student at Cardiff Metropolitan University, pursuing a degree in Computer
+  Science.
+- Worked on several personal programming projects and contributed to open-source
+  projects on GitHub.
+- Completed online courses and certifications on various programming languages
+  and tools.
 
-    -   .NET
-    -   React
-    -   Node.js
+# Achievements
 
--   others:
+- Maintained a high GPA throughout my academic career.
+- Developed and published several personal projects on GitHub.
+- Contributed to several open-source projects on GitHub.
+- Completed online courses and certifications on various programming languages
+  and tools.
 
-    -   SQL
-    -   Linux (arch linux, Debian, Ubuntu, etc)
-    -   Docker
-    -   Git
-    -   Agile
-    -   Scrum
+# Language Skills
 
--   non-technical skills:
+- English: Fluent
+- Arabic: Native
 
-    -   communication
-    -   team work
-    -   problem solving
-    -   leadership
+Thank you for considering my profile. I look forward to hearing from you soon.
 
 # status and trophies
 
