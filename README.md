@@ -1,3 +1,17 @@
+
+
+<!-- toc -->
+
+- [Basic Information](#basic-information)
+- [Summary](#summary)
+- [Technical Skills](#technical-skills)
+- [Professional Experience](#professional-experience)
+- [Achievements](#achievements)
+- [Language Skills](#language-skills)
+- [status and trophies](#status-and-trophies)
+
+<!-- tocstop -->
+
 # Basic Information
 
 - Name: Abdellatif Temsamani
