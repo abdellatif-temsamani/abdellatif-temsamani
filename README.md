@@ -1,69 +1,38 @@
+# create-svelte
 
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-<!-- toc -->
+## Creating a project
 
-- [Basic Information](#basic-information)
-- [Summary](#summary)
-- [Technical Skills](#technical-skills)
-- [Professional Experience](#professional-experience)
-- [Achievements](#achievements)
-- [Language Skills](#language-skills)
-- [status and trophies](#status-and-trophies)
+If you're seeing this, you've probably already done this step. Congrats!
 
-<!-- tocstop -->
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-# Basic Information
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-- Name: Abdellatif Temsamani
-- Email: abdellatif.devlog@gmail.com
-- GitHub: @abdellatif-temsamani
-- LinkedIn: Abdellatif Temsamani
-- Location: Morocco
+## Developing
 
-# Summary
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-I am a highly motivated software engineer with a passion for coding, and a
-strong desire to learn. I have a broad range of technical skills and experience
-in multiple programming languages, frameworks and tools. I am also an effective
-communicator and a skilled team player with excellent problem-solving and
-leadership skills.
+```bash
+npm run dev
 
-# Technical Skills
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
 
-- Programming Languages: Python, Javascript/Typescript, C#, C, Bash, Rust
-- Frameworks: .NET, React, Node.js
-- Databases: SQL
-- Operating Systems: Linux (Arch Linux, Debian, Ubuntu, etc.) Tools: Docker,
-  Git, Agile, Scrum
+## Building
 
-# Professional Experience
+To create a production version of your app:
 
-- Student at Cardiff Metropolitan University, pursuing a degree in Computer
-  Science.
-- Worked on several personal programming projects and contributed to open-source
-  projects on GitHub.
-- Completed online courses and certifications on various programming languages
-  and tools.
+```bash
+npm run build
+```
 
-# Achievements
+You can preview the production build with `npm run preview`.
 
-- Maintained a high GPA throughout my academic career.
-- Developed and published several personal projects on GitHub.
-- Contributed to several open-source projects on GitHub.
-- Completed online courses and certifications on various programming languages
-  and tools.
-
-# Language Skills
-
-- English: Fluent
-- Arabic: Native
-
-Thank you for considering my profile. I look forward to hearing from you soon.
-
-# status and trophies
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-temsamani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-temsamani&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
