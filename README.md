@@ -22,6 +22,8 @@
 
 # Summary
 
+A senior software engineer at [Hoolia](https://hoolia.eu)
+
 I am a highly motivated software engineer with a passion for coding, and a
 strong desire to learn. I have a broad range of technical skills and experience
 in multiple programming languages, frameworks and tools. I am also an effective
@@ -32,8 +34,8 @@ leadership skills.
 
 - Programming Languages: Python, Javascript/Typescript, C#, C, Bash, Rust
 - Frameworks: .NET, React, Node.js
-- Databases: SQL
-- Operating Systems: Linux (Arch Linux, Debian, Ubuntu, etc.) Tools: Docker,
+- Operating Systems: Linux (Arch Linux, Debian, Ubuntu, etc.)
+- Tools: Docker,
   Git, Agile, Scrum
 
 # Professional Experience
