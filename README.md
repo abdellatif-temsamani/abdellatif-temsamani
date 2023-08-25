@@ -15,7 +15,7 @@
 # Basic Information
 
 - Name: Abdellatif Temsamani
-- Email: abdellatif.devlog@gmail.com
+- Email: temsamani.mkaref.abdellatif@gmail.com
 - GitHub: @abdellatif-temsamani
 - LinkedIn: Abdellatif Temsamani
 - Location: Morocco
@@ -46,7 +46,6 @@ leadership skills.
 
 # Achievements
 
-- Maintained a high GPA throughout my academic career.
 - Developed and published several personal projects on GitHub.
 - Contributed to several open-source projects on GitHub.
 - Completed online courses and certifications on various programming languages
