@@ -60,8 +60,10 @@ Thank you for considering my profile. I look forward to hearing from you soon.
 
 # status and trophies
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-temsamani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellatif-temsamani&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-temsamani&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-temsamani&langs_count=10&theme=radical&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=radical)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdellatif_temsmanai&langs_count=10&theme=radical&layout=compact)
