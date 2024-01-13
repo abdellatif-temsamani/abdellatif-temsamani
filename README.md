@@ -66,4 +66,4 @@ Thank you for considering my profile. I look forward to hearing from you soon.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=radical)
 
-![Abdellatif's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdellatif_temsmanai&theme=radical&layout=compact)
+![Abdellatif's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdellatiftemsmanai&theme=radical&layout=compact)
