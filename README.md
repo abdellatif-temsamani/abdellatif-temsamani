@@ -63,5 +63,3 @@ Thank you for considering my profile. I look forward to hearing from you soon.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-temsamani&langs_count=10&theme=radical&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=radical)
-
-![Abdellatif's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdellatiftemsmanai&theme=radical&layout=compact)
