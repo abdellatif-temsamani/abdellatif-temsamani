@@ -14,7 +14,7 @@ I am a highly motivated software engineer with a passion for coding, and a stron
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=abdellatif-temsamani&theme=onedark)
 
 ## 💰 You can help me by Donating
   
